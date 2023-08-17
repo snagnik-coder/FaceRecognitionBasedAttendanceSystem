@@ -1,0 +1,34 @@
+/* img {
+
+} */
+/* .navbar {
+    background-color: aqua;
+    align-items: end;
+    flex-direction: end;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: none;
+    color: rgb(156, 22, 22);
+} */
+/* .topnav-right {
+    float: right;
+}
+.topnav-left {
+    float: left;
+} */
+.text-white {
+    font-size: x-large;
+    font-family: Verdana;
+}
+.nav-link {
+    font-size: large;
+}
+.al-items {
+    padding: 18rem;
+    font-size: xx-large;
+    color: black;
+}
